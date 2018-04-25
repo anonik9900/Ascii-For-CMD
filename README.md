@@ -17,3 +17,4 @@ Simple config file allow you to set an ascii art in your windows cmd
   <li>Enjoy</li>
   </ol>
   
+  <img src="https://github.com/anonik9900/Ascii-For-CMD/blob/master/config/preview.png?raw=true">
