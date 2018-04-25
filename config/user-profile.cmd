@@ -1,5 +1,6 @@
 :: use this file to run your own startup commands
 
+rem in this space you can insert your ascii art
 
 echo "  ______                                 __  __       ";
 echo " /      \                               /  |/  |      ";
