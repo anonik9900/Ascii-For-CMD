@@ -11,7 +11,7 @@ Simple config file allow you to set an ascii art in your windows cmd
   <li>Go into the Cmder foler </li>
   <li>Go to <b>config</b> folder </li>
   <li>Edit the <b>user-profile.cmd</b> file or insert the file that I included in this repo</li>
-  <li>Go to http://patorjk.com/software/taag/ to create your personal ascii art </li>
+  <li>Go to <a href="http://patorjk.com/software/taag/">http://patorjk.com/software/taag/</a> to create your personal ascii art </li>
   <li>Copy the ascii art </li>
   <li>Paste it into the <b>user-profile.cmd</b> (see my file)</li>
   <li>Enjoy</li>
